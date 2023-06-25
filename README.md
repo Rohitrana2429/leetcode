@@ -8,6 +8,6 @@ My leetcode profile can be viewed [here](https://leetcode.com/rohitrana2429/)
 
 | days            | problem                                                              |
 | ----------------- | ------------------------------------------------------------------ |
-| 1             | [here](https://leetcode.com/problems/top-k-frequent-elements/submissions/979479842/) |
+| 1             | [here](https://github.com/Rohitrana2429/leetcode/blob/master/Top%20-K-%20Frequent-Elements.java) |
 
 
