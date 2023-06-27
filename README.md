@@ -9,5 +9,5 @@ My leetcode profile can be viewed [here](https://leetcode.com/rohitrana2429/)
 | days            | problem                                                              |
 | ----------------- | ------------------------------------------------------------------ |
 | 1             | [here](https://github.com/Rohitrana2429/leetcode/blob/master/Top%20-K-%20Frequent-Elements.java) |
-
+|day2| [two sum](https://github.com/Rohitrana2429/leetcode/blob/master/two-sum.java)|
 
