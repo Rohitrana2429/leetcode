@@ -10,4 +10,4 @@ My leetcode profile can be viewed [here](https://leetcode.com/rohitrana2429/)
 | ----------------- | ------------------------------------------------------------------ |
 | 1             | [top-k-frequent-element ](https://github.com/Rohitrana2429/leetcode/blob/master/Top%20-K-%20Frequent-Elements.java) |
 |2| [two sum](https://github.com/Rohitrana2429/leetcode/blob/master/two-sum.java)|
-
+|3|[Longest Substring Without Repeating Characters](https://github.com/Rohitrana2429/leetcode/blob/master/Longest-Substring%20Without-Repeating-Characters.java)
